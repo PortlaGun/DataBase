@@ -1,2 +1,2 @@
 # DataBase
-I hate myself
+Discard this project immediately
