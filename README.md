@@ -1,2 +1,2 @@
 # DataBase
-Some random university project
+I hate myself
